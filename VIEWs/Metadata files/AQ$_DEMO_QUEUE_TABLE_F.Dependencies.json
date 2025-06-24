@@ -1,0 +1,27 @@
+[
+  {
+    "schema": "",
+    "name": "ALL_INT_DEQUEUE_QUEUES",
+    "type": "VIEW"
+  },
+  {
+    "schema": "",
+    "name": "ANYDATA",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "AQ$_JMS_TEXT_MESSAGE",
+    "type": "TYPE"
+  },
+  {
+    "schema": "",
+    "name": "DEMO_QUEUE_TABLE",
+    "type": "TABLE"
+  },
+  {
+    "schema": "",
+    "name": "STANDARD",
+    "type": "PACKAGE_SPEC"
+  }
+]
