@@ -1,0 +1,14 @@
+{
+  "General": [
+    {
+      "CACHE_SIZE": 20.0,
+      "CYCLE_FLAG": "Y",
+      "INCREMENT_BY": 1.0,
+      "MAX_VALUE": 10000.0,
+      "MIN_VALUE": 1.0,
+      "ORDER_FLAG": "Y",
+      "SEQUENCE_NAME": "EMP_SEQ",
+      "TYPE": "SEQUENCE"
+    }
+  ]
+}

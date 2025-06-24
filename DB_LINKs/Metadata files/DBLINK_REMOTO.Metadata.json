@@ -2,7 +2,7 @@
   "General": [
     {
       "DB_LINK": "DBLINK_REMOTO",
-      "HOST": "ORCL_REMOTO",
+      "HOST": "ORCL_REMOTO_NUEVO",
       "SHARED": "NO",
       "TYPE": "DB_LINK",
       "USERNAME": "REMOTE_USER"
